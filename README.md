@@ -25,7 +25,7 @@ Developed a predictive model using machine learning algorithms to forecast Airbn
 - **Spatial influences** also play a role in price predictions.  
 
 ### 🌍 Map of Airbnb Prices in Prague  
-![Airbnb Prices Map](Grafiken/plot_Airbnb_prices.png)  
+![Airbnb Prices Map](Grafiken/airbnb_listings_prices_prague.png)  
 
 - The dots represent Airbnb listings in **Prague**. Brighter colors indicate **higher prices**.  
 - As expected, the **highest prices** are concentrated in the **Old Town of Prague**.  
